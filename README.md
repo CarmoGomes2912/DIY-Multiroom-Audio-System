@@ -33,7 +33,7 @@ Um sistema de áudio multiroom sincronizado feito com Node.js + WebSocket + Web 
 ### 1. Clonar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/multiroom-audio.git
+git clone https://github.com/CarmoGomes2912/DIY-Multiroom-Audio-System
 cd multiroom-audio
 ```
 
